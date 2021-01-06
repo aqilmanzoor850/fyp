@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@valdio/react-native-scrollable-tabview": "^0.8.12",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "^36.0.0",
     "expo-constants": "^8.0.0",
     "expo-facebook": "^8.0.0",
